@@ -6,13 +6,13 @@ export const environment = {
   production: false,
   serverAPI:"http://localhost:3000/",
   firebaseConfig: {
-    apiKey: "AIzaSyB4ovfY22-rQlxhneeMxH6pLOuLc2Sh_ak",
-    authDomain: "lojaangular-db.firebaseapp.com",
-    databaseURL: "https://lojaangular-db.firebaseio.com",
-    projectId: "lojaangular-db",
+    apiKey: "AIzaSyAK9YQGtF8TOmJvyOuJJEOtTfSCknmNcDg",
+    authDomain: "loja-angularbs.firebaseapp.com",
+    databaseURL: "https://loja-angularbs.firebaseio.com",
+    projectId: "loja-angularbs",
     storageBucket: "",
-    messagingSenderId: "840059874221",
-    appId: "1:840059874221:web:ef3d68a39faf5adec08f24"
+    messagingSenderId: "960253392202",
+    appId: "1:960253392202:web:b604e60c9e0a9b04ed7db3"
   }
 };
 
